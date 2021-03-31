@@ -5,7 +5,7 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 
 @Path("/json")
-public class ProducesJson {
+public class Rest_002_Produces_Json {
 
 	@GET
 	// @Produces(MediaType.APPLICATION_JSON)
