@@ -7,7 +7,7 @@ import javax.ws.rs.Produces;
 // localhos:8080/JerseyRest/rest/Path
 
 @Path("/produces")
-public class RestProduces {
+public class ProducesString {
 
 	@GET
 	// @Produces(MediaType.TEXT_PLAIN)
