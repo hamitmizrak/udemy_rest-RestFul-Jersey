@@ -23,7 +23,7 @@
 <!--   http://localhost:8080/RestWebServices/rest1/deneme -->
   <servlet-mapping>
     <servlet-name>Jersey Servlet</servlet-name>
-    <url-pattern>/rest/*</url-pattern>
+    <url-pattern>/jersey/*</url-pattern>
   </servlet-mapping>
   
 </web-app>
